@@ -35,7 +35,6 @@
 
 
 ## 5. Öğrenci Uygulamasında yapılan iyileştirmeler
-- Ödev modülünde öğrenci metin teslim ederken 4000 karakter limiti kaldırıldı.
 - Öğrencilerin Bigbluebutton sanal sınıflarına katıldığı süreleri kaydeden servis eklendi.
 - Öğrencilerin Zoom sanal sınıflarına katıldığı süreleri kaydeden servis eklendi.
 - Öğrenci sınava girdiğinde sınav soru sayısı ile ekrana yüklenen soru sayısı eşit değilse mesaj gösterip sayfayı yenileyecek fonksiyon eklendi (resim olmalı)
